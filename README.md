@@ -7,10 +7,7 @@ Resources for learning Neutralinojs app development
 - [Official documentation](https://neutralino.js.org/docs)
 
 ## Articles
-- [Neutralinojs internals](https://www.99xtechnology.com/blog/research/neutralinojs-internals/)
-- [Neutralinojs 2020 — Roadmap](https://medium.com/@shalithasuranga/neutralinojs-2020-roadmap-18179271205d)
+- [How to Develop Neutralinojs Apps](https://factsoverflow.com/how-to-develop-neutralinojs-apps/)
 
-## Videos
-- [Quick introduction to Neutralinojs - Tutorial #1](https://www.youtube.com/watch?v=O1OAGFyFnfE)
-- [Building your first application with Neutralinojs - Tutorial #2](https://www.youtube.com/watch?v=C7S6AU4oG8s)
-- [Neutralinojs API overview and debugging applications - Tutorial #3](https://www.youtube.com/watch?v=8O50Z7tVm00)
+## Videos/Playlists
+- [Neutralinojs v2 tutorial(https://www.youtube.com/watch?v=txDlNNsgSh8&list=PLvTbqpiPhQRb2xNQlwMs0uVV0IN8N-pKj&ab_channel=CodeZriCodeZri)
